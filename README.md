@@ -1,4 +1,4 @@
 
 # MP4 Test
 
-![Alt Text](https://raw.githubusercontent.com/mamullen13316/gif_test/master/1280x720.gif)
+![Alt Text](https://github.com/mamullen13316/mp4_test/raw/master/01_collection_rules.mp4)
