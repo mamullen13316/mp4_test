@@ -1,4 +1,4 @@
 
 # MP4 Test
 
-![Alt Text](https://github.com/mamullen13316/mp4_test/raw/master/01_collection_rules.mp4)
+<p><a href="/01_collection_rules.mp4" title="Collection Rules Title">Collection Rules Video</a></p>
